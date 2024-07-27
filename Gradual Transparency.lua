@@ -3,7 +3,7 @@
 
 script_name = "Gradual Transparency"
 script_description = "Adjusts 1a value to make selected lines progressively more transparent"
-script_author = "AkaYuki"
+script_author = "Akayuki"
 script_version = "1.1"
 
 include("karaskel.lua")
